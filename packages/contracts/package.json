@@ -1,0 +1,16 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "forge-std": "github:foundry-rs/forge-std#20872c5b1900526579159bdc6967f6b48c22e50e",
+    "ds-test": "github:dapphub/ds-test#e282159d5170298eb2455a6c05280ab5a73a4ef0"
+  }
+}
